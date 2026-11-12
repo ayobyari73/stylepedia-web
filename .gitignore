@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+.angular/
+
+# environment / secrets
+.env
+.env.*
+!.env.example
+
+# editor
+.idea/
+.vscode/
+*.log
